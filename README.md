@@ -1,2 +1,4 @@
-# Pumo 2016 - Notatnik
-Przykładowe repozytorium do przedmiotu **Programowanie urządzeń mobilnych**
+PAM 2018 - Notatnik
+===================
+
+Przykładowe repozytorium do przedmiotu **Programowanie aplikacji mobilnych**
